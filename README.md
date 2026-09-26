@@ -3,7 +3,8 @@
 This repository holds the automated reporting model built for my Data Analyst Internship at Internee.pk.
 
 ## 📊 Dashboard Preview
-![Sorted Dashboard Preview](Performance%20evaluation.png)
+![Sorted Dashboard Preview](output_screenshot.png)
+
 
 ### Project Objective:
 The core target of this module is to evaluate internal performance arrays by compiling key KPIs (Task Completion Time, Project Quality scores, and Mentor Feedback numbers) into a unified report.
