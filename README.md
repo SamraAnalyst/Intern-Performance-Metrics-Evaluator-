@@ -3,7 +3,8 @@
 This repository holds the automated reporting model built for my Data Analyst Internship at Internee.pk.
 
 ## 📊 Dashboard Preview
-![Sorted Dashboard Preview](output_(3).png)
+![Sorted Dashboard Preview](output%20(3).png)
+
 
 
 ### Project Objective:
